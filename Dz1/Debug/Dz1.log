@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Сергей\source\repos\Dz1\Dz1\Source.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Сергей\source\repos\Dz1\Dz1\Source.cpp(12,6): warning C4101: 'b': unreferenced local variable
+  Dz1.vcxproj -> C:\Users\Сергей\source\repos\Dz1\Debug\Dz1.exe
